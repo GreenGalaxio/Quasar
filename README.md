@@ -1,3 +1,5 @@
+Scratch's accessibility. Flash's creative freedom. Animate's animation tools. On Linux. Free. Open source. Forever.
+
 # Quasar - Design Document
 
 > Free, open source, Linux-first creative suite. Animate, code, build games, export to web. For everyone from beginners to veterans.
@@ -290,13 +292,7 @@ Quasar has a full sound identity. Nothing should be silent, everything should fe
 - itch.io
 - GitHub
 - A dedicated website eventually
-
----
-
-## The Pitch
-
-"Scratch's accessibility. Flash's creative freedom. Animate's animation tools. On Linux. Free. Open source. Forever."
-
+  
 ---
 
 *Full feature specification compiled from a single brainstorming session. Subject to change as development progresses.*
