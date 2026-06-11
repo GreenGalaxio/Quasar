@@ -181,19 +181,6 @@ A lightweight audio editor built directly into Quasar. Think a stripped-down Aud
 
 ---
 
-### AI Assist (Local Only)
-
-- Powered by a local AI model that the user installs themselves, keeping all data on their own machine
-- Not a generative or "do it for me" tool
-- Functions as an assistant:
-  - Explains how parts of the codebase work
-  - Breaks down how a problem could be approached
-  - Provides pseudocode to work from
-  - The user still does the actual work
-- Nothing is sent to external servers
-
----
-
 ### Session and History
 
 - **Persistent undo and redo history:** survives closing and reopening a file
